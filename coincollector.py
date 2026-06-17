@@ -63,11 +63,11 @@ def update(dt):
 
         if keyboard.a or keyboard.left:
             fox.x = fox.x - 5
-        elif keyboard.d or keyboard.right:
+        if keyboard.d or keyboard.right:
             fox.x = fox.x + 5
-        elif keyboard.w or keyboard.up:
+        if keyboard.w or keyboard.up:
             fox.y = fox.y - 5
-        elif keyboard.s or keyboard.down:
+        if keyboard.s or keyboard.down:
             fox.y = fox.y + 5
 
         # TODO: Clamp fox so it cannot move off the edges of the screen.
