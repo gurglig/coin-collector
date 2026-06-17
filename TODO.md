@@ -1,0 +1,16 @@
+# TODO
+- Idiot-proofing
+  - Add borders
+- Add decision-making
+  - Dangers
+    - Walls
+      - Moving walls
+    - Enemies/Hazards
+      - Lives
+  - Multiple goals
+    - Multiple coins
+    - Time extensions
+    - Extra lives
+- Balancing
+  - Prevent free points
+    - Prevent coins and powerups from spawning on top of player
