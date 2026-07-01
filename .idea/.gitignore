@@ -7,3 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 *.iml
+highlightedFiles.xml
+misc.xml
+Project_Default.xml
